@@ -12,7 +12,7 @@ namespace TestProject1.Subnamespace
         int Bar()
         {
             Thread.Sleep(375);
-            return 1;
+            return 2;
         }
     }
 }
