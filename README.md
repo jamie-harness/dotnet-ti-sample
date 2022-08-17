@@ -1,0 +1,2 @@
+## To Build
+dotnet build

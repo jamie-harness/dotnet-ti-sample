@@ -1,0 +1,4 @@
+outDir: '/tmp/ti/callgraph/cg'
+logLevel: 3
+writeTo: [COVERAGE_JSON]
+instrPackages: ['TestProject1']

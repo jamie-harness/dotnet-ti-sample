@@ -1,0 +1,4 @@
+outDir: '/addon/tmp/ti/callgraph/cg'
+logLevel: 0
+writeTo: [COVERAGE_JSON]
+instrPackages: ['TestProject1','TestProject1.Subnamespace']
